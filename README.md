@@ -6,4 +6,4 @@ Learn scala by writing actual code
 
 > The Sbt commands are in README2.md
 
-<img src="https://assets.codegrip.tech/wp-content/uploads/2021/09/29134425/Scala_Logo.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfr7tmKyu68Vy0eSsyZE9sXhc2EbKwbMakFQ&usqp=CAU">
