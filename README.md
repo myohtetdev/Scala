@@ -6,4 +6,4 @@ Learn scala by writing actual code
 
 > The Sbt commands are in README2.md
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfr7tmKyu68Vy0eSsyZE9sXhc2EbKwbMakFQ&usqp=CAU">
+<img src="https://logovtor.com/wp-content/uploads/2020/11/scala-programming-language-logo-vector.png">
